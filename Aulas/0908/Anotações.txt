@@ -1,0 +1,41 @@
+Dados processados em um sistema de informação se torna Informação
+
+tecnologia é o produto dispoível para compra no mercado
+Sistema é o item comprado servindo uma função
+
+2º perído 60% do primeiro
+
+dados importantes
+qtd homem
+qtd mulher
+duração
+tempo (clima)
+ -frio come mais bebe menos
+ -calor come menos bebe mais
+
+
+
+constante (alimento, bebida, descartáveis)
+-unidade (kg, litro, etc)
+-preço
+-media consumo homem
+-media consumo mulher
+
+papel higiênico = metro
+
+
+outros (carvão, gelo, dtergente - não da pra diferenciar media de consumo de homem e mulher)
+mas produtos como carvão, precisam de mais quantidade quanto mais carne tiver
+
+
+2kg média de consumo?
+
+litro + tds os litros
+Kg + Kg;
+Unidade + unidade;
+
+5 u farofa + 25;
+2 + 3 = 5kg no total
+1 BRAMA + 1 SKOL (Lt) 4.200
+
+mch * qtde homem e mcm + qtde mulher
